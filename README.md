@@ -30,8 +30,8 @@
 
   ![image](https://github.com/cooolgamer/3ds-settings-mod/assets/64099608/1b7548ba-c75e-440e-b25f-d4dcf3eb8896)
 - Replace it with the edited background (bg_white - template.bclim)
-- Right click on blyt and do replace blyt
-- select the folder you put the top and bottom screen layouts in
+- Right click on blyt folder and do replace blyt
+- Select the folder you put the top and bottom screen layouts in
 - Save the changes (ctrl+s is your friend)
 - Go to Tools, Compression, Nintendo, Compress, LZ10 just like the image below
 
