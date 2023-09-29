@@ -3,7 +3,6 @@
 ## Making your own wallpaper
 ### Prerequites:
 - Kuriimu, Karameru and Kukkii bundled in this [release page](https://github.com/IcySon55/Kuriimu/releases)
-- (optional) [HMRT](https://github.com/schrmh/HMRT) if you're lazy to compress/uncompress archives through karameru
 - A modded 3DS (use [This guide](https://3ds.hacks.guide/) if you didn't modded yours already)
 - The [Background template file](https://raw.githubusercontent.com/cooolgamer/3ds-settings-mod/main/bg_white%20-%20template.bclim), [Top screen layout](https://raw.githubusercontent.com/cooolgamer/3ds-settings-mod/main/Bg_U_00.bclyt) and [Bottom screen layout](https://raw.githubusercontent.com/cooolgamer/3ds-settings-mod/main/Bg_D_00.bclyt)
 - A good image editor (paint.net do the job)
@@ -31,9 +30,11 @@
   ![image](https://github.com/cooolgamer/3ds-settings-mod/assets/64099608/1b7548ba-c75e-440e-b25f-d4dcf3eb8896)
 - Replace it with the edited background (bg_white - template.bclim)
 - Right click on blyt folder and do replace blyt
+  
+  ![image](https://github.com/cooolgamer/3ds-settings-mod/assets/64099608/eeaa3118-ed73-4ee8-9b7b-47f9b5b813f3)
 - Select the folder you put the top and bottom screen layouts in
 - Save the changes (ctrl+s is your friend)
-- Go to Tools, Compression, Nintendo, Compress, LZ10 just like the image below
+- Go to Tools, Compression, Nintendo, Compress, LZ10
 
   ![image](https://github.com/cooolgamer/3ds-settings-mod/assets/64099608/5052318f-8add-4932-918e-f315b0497e40)
 - Replace base_LZ.bin file while compressing, the file should now be modded with your modifications
@@ -44,6 +45,7 @@
   - 0004001000021000 for USA
   - 0004001000020000 for Japan
 - Create a "romfs" folder inside and put your base_LZ.bin file inside
-- A valid path for Europe would be luma/titles/0004001000022000/romfs/base_LZ.bin
+
+  (A valid path for Europe would be `luma/titles/0004001000022000/romfs/base_LZ.bin`)
 - Don't forget to enable game patching on luma config (hold select while booting)
 - Enjoy!
