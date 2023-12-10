@@ -19,7 +19,7 @@
 - If you don't want to have that amazing template on your system settings and put your own image instead, open the template on kukkii and export it to PNG
 
   ![image](https://github.com/cooolgamer/3ds-settings-mod/assets/64099608/caa087aa-e3e7-458d-bc7c-5590823ae64e)
-- Edit the image and import it through kukkii
+- Edit the image and import it through kukkii, then save it (ctrl+s is your friend :p)
 - Now the image file is done, you have to put it on the archive so first, open karameru
 - Go to Tools, Compression, Nintendo, Decompress, General just like the image below
 
@@ -33,7 +33,7 @@
   
   ![image](https://github.com/cooolgamer/3ds-settings-mod/assets/64099608/eeaa3118-ed73-4ee8-9b7b-47f9b5b813f3)
 - Select the folder you put the top and bottom screen layouts in
-- Save the changes (ctrl+s is your friend)
+- Save the changes (again, ctrl+s is your friend)
 - Go to Tools, Compression, Nintendo, Compress, LZ10
 
   ![image](https://github.com/cooolgamer/3ds-settings-mod/assets/64099608/5052318f-8add-4932-918e-f315b0497e40)
