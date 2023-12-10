@@ -27,7 +27,7 @@
 
   ![image](https://github.com/cooolgamer/3ds-settings-mod/assets/64099608/936854d5-8cc2-443e-8844-de0de08677f7)
 - Open the ``base_LZ.bin`` file you previously extracted on godmode9 and save the uncompressed file
-- Open the uncompressed base_LZ file, go to "timg", right click "bg_white.bclim" on the file list and select replace file
+- Open the uncompressed base_LZ file, go to "timg", click "bg_white.bclim" on the file list and press the "replace file" button
 
   ![image](https://github.com/cooolgamer/3ds-settings-mod/assets/64099608/1b7548ba-c75e-440e-b25f-d4dcf3eb8896)
 - Replace it with the edited background (bg_white - template.bclim)
