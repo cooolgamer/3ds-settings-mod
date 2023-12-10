@@ -10,11 +10,11 @@
 ### Extracting romfs:
 - Open godmode9 (hold start while booting)
 - Go to CTRNAND, titles, 00040010, 0002X000 (X can be any number), content and select the .tmd file
-- Select TMD file options and mount cxi/nds image to drive then press A
+- Select "TMD file options" and "mount cxi/nds image to drive" then press A
 - Open the romfs folder
 - Highlight the ``base_LZ.bin`` file and press Y to copy it
 - Press B two times to go to the main menu
-- Go to sdcard then press Y to paste it
+- Go to SDCARD then press Y again to paste it
 - Power off and insert the sdcard on your computer then copy the ``base_LZ.bin`` file on the folder you're doing the mod on
 
 ### Editing and injecting the wallpaper
@@ -26,8 +26,8 @@
 - Go to Tools > Compression > Nintendo > Decompress > General just like the image below
 
   ![image](https://github.com/cooolgamer/3ds-settings-mod/assets/64099608/936854d5-8cc2-443e-8844-de0de08677f7)
-- Open base_LZ.bin file from the romfs folder previously copied and save the uncompressed file
-- Open the uncompressed base_LZ file, go to timg, bg_white.bclim and press replace file
+- Open the ``base_LZ.bin`` file you previously extracted on godmode9 and save the uncompressed file
+- Open the uncompressed base_LZ file, go to "timg", right click "bg_white.bclim" on the file list and select replace file
 
   ![image](https://github.com/cooolgamer/3ds-settings-mod/assets/64099608/1b7548ba-c75e-440e-b25f-d4dcf3eb8896)
 - Replace it with the edited background (bg_white - template.bclim)
